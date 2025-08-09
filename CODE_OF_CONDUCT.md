@@ -1,3 +1,17 @@
+
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+## Steps to Contribute
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Commit and push your changes.
+5. Open a Pull Request.
+
+Please ensure your code follows best practices and includes comments where necessary.
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
